@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/jrbranaa/wikimedia2#readme",
   "dependencies": {
+    "mocha": "^3.2.0",
     "selenium-webdriver": "^3.0.1"
   }
 }
