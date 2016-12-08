@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jrbranaa/wikimedia2/issues"
   },
-  "homepage": "https://github.com/jrbranaa/wikimedia2#readme"
+  "homepage": "https://github.com/jrbranaa/wikimedia2#readme",
+  "dependencies": {
+    "selenium-webdriver": "^3.0.1"
+  }
 }
