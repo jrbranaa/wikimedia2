@@ -10,12 +10,12 @@ test.describe( 'Main page title', function () {
 
 	test.beforeEach( function () {
 		driver = new webdriver.Builder()
-		.forBrowser( 'firefox' )
+		.forBrowser( 'chrome' )
 		.build();
 	} );
 
 	test.afterEach( function () {
-		driver.quit();
+		//driver.quit();
 	} );
 
 	test.it( 'should have correct title', function () {
